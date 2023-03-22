@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "silcsreen_logo")(type "KiCad")(uri "${KIPRJMOD}/STM32F4_breakout-backups/silcsreen_logo.pretty")(options "")(descr ""))
+  (lib (name "logo")(type "KiCad")(uri "${KIPRJMOD}/logo.pretty")(options "")(descr ""))
+)
